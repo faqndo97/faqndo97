@@ -3,78 +3,53 @@
 </div>  
   
 
-### <div align="center">I'm Facundo, a full-time Senior Ruby on Rails developer 👨‍💻 </div>  
+### <div align="center">I'm Facundo, a full-time Senior Ruby on Rails developer </div>  
   
 
-- 🔭 I’m currently working on Backlotcars  
+- ✉️ I’m currently working at [Valimail](valimail.com)  
   
 
-- 🌱 I’m currently learning Docker, AWS and deep diving into Ruby and Ruby on Rails  
+- 🌱 I’m diving more into Ruby with the help of [greatful.dev](https://graceful.dev/). Also, I'm learning how to improve UIs with [Hotwire](https://hotwired.dev/)  
   
 
-- ❓ Ask me about anything related to Ruby and Rails and general backend topics  
+- ❓ Ask me about [Ruby](https://www.ruby-lang.org/en/) and [Ruby and Rails](https://rubyonrails.org/).  
   
 
-- ⚡ Fun fact: I love play videogames with friends, currently I'm playing Rust, Call of duty warzone, Dead by daylight and League of Legends.  
+- ⚡ Fun fact: I love to play video games with friends.  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" height="50" />  
+        <img style="margin: 10px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby" height="50" />  
+        <img style="margin: 10px" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png:large" alt="Ruby on Rails" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+      </div>
+    </td>
+  </tr>
+</table>  
 
 <br/>  
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/faqndoE97" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/faqndo97" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/faqndo97" target="_blank">
+<a href="https://linkedin.com/in/faqndo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/faqndo97" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -83,7 +58,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqndo97&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=faqndo97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
