@@ -3,11 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Facundo, a full-time Senior Ruby on Rails developer </div>  
-  
-
-- ✉️ I’m currently working at [ContextTravel](contexttravel.com)  
-  
+### <div align="center">I'm Facundo, a full-time Senior Ruby on Rails developer </div>    
 
 - 🌱 I’m diving more into Ruby with the help of [greatful.dev](https://graceful.dev/). Also, I'm learning how to improve UIs with [Hotwire](https://hotwired.dev/)  
   
